@@ -2,3 +2,4 @@ Counter
 ipython
 matplotlib
 pandas
+jupyter
