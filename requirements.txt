@@ -3,3 +3,5 @@ ipython
 matplotlib
 pandas
 jupyter
+seaborn
+sklearn
