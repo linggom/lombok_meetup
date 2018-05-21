@@ -10,3 +10,6 @@
    - data_exploration.ipynb (Materi tentang eksplorasi data)
    - start_prediction.ipynb (Belajar membuat model dari data)
    - workshop.ipynb (Hasil model yang lebih baik)
+
+## Rincian acara
+Rincian mengenai acara dan dokumentasi foto selengkapnya bisa anda lihat pada link: [https://github.com/LombokDev/Workshop001/](https://github.com/LombokDev/Workshop001/)
