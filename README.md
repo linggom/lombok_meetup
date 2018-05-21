@@ -7,9 +7,9 @@
 4. Buka CMD/Terminal lalu ketik: `pip install -r requirements.txt`
 5. Jalankan `jupyter notebook`, akan terbuka otomatis file materi pada browser internet anda. Materi disimpan dalam ekstensi `.ipynb`.
 6. Urutan materi:
-   - data_exploration.ipynb (Materi tentang eksplorasi data)
-   - start_prediction.ipynb (Belajar membuat model dari data)
-   - workshop.ipynb (Hasil model yang lebih baik)
+   - [data_exploration.ipynb](./data_exploration.ipynb) (Materi tentang eksplorasi data)
+   - [start_prediction.ipynb](./start_prediction.ipynb) (Belajar sendiri cara membuat model dari data)
+   - [workshop.ipynb](./workshop.ipynb) (Cara membuat model dari data)
 
 ## Rincian acara
 Rincian mengenai acara dan dokumentasi foto selengkapnya bisa anda lihat pada link: [https://github.com/LombokDev/Workshop001/](https://github.com/LombokDev/Workshop001/)
