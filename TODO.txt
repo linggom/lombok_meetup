@@ -1,0 +1,11 @@
+!pip install pandas
+!pip install matplotlib
+!pip install seaborn
+!pip install sklearn
+
+
+
+Sign Up di https://www.kaggle.com/
+
+buka halaman ini 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
