@@ -75,7 +75,7 @@ lightfm==1.14
 lightgbm==2.0.10
 llvmlite==0.20.0
 locket==0.2.0
-lxml==4.1.0
+lxml==4.9.1
 Markdown==2.2.0
 MarkupSafe==1.0
 matplotlib==2.0.2
